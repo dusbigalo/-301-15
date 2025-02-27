@@ -1,0 +1,3 @@
+favorite_colors = ['черный', 'белый', 'серый']
+favorite_colors[0] = 'синий'
+print("Новый список:", favorite_colors)
